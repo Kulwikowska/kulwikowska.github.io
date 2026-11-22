@@ -3,7 +3,7 @@
 
 export const site = {
   name: 'MF Crystal Care',
-  url: 'https://kulwikowska.github.io',
+  url: 'https://crystalcare.es',
   phoneDisplay: '+34 634 810 162',
   phoneIntl: '34634810162',
   areas: ['Fuengirola', 'Benalmádena', 'Mijas'],

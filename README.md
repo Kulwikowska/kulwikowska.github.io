@@ -1,7 +1,7 @@
 # MF Crystal Care
 
 Landing page for MF Crystal Care – Home Service (cleaning and Hungarian home food) in Fuengirola, Benalmádena and Mijas.
-Live: https://kulwikowska.github.io/
+Live: https://crystalcare.es/
 
 Next.js 15 (static export), TypeScript. Languages: ES / EN / HU.
 
